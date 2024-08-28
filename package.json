@@ -1,0 +1,34 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "assignment3 - INJS - TLK004 - Muhammad Faqihuddin M - Telkomsel",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfm-start/assignment3_INJS.git"
+  },
+  "keywords": [
+    "jest",
+    "express"
+  ],
+  "author": "Muhammad Faqihuddin M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfm-start/assignment3_INJS/issues"
+  },
+  "homepage": "https://github.com/mfm-start/assignment3_INJS#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.12.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "sequelize-cli": "^6.6.2",
+    "supertest": "^7.0.0"
+  }
+}
